@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\1129c5fd-ef74-493f-a949-daf70ff2bb38.jpg",
+      "PackagePath": "staticwebassets\\actores\\1129c5fd-ef74-493f-a949-daf70ff2bb38.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\1f70c79e-d594-4892-86f9-436e62b47e3c.jpg",
+      "PackagePath": "staticwebassets\\actores\\1f70c79e-d594-4892-86f9-436e62b47e3c.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\377da8a5-b586-47c1-bd11-88926c34a724.jpg",
+      "PackagePath": "staticwebassets\\actores\\377da8a5-b586-47c1-bd11-88926c34a724.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\5def5ffe-bff4-48a6-a818-6cb52184b217.jpg",
+      "PackagePath": "staticwebassets\\actores\\5def5ffe-bff4-48a6-a818-6cb52184b217.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\75452586-dd94-467b-8808-f18ebbf6f049.jpg",
+      "PackagePath": "staticwebassets\\actores\\75452586-dd94-467b-8808-f18ebbf6f049.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\9ebd9086-a821-40d4-a0d2-164259624af9.jpg",
+      "PackagePath": "staticwebassets\\actores\\9ebd9086-a821-40d4-a0d2-164259624af9.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\ab6d1a39-7f58-4d2d-99e5-057557ae9bf2.jpg",
+      "PackagePath": "staticwebassets\\actores\\ab6d1a39-7f58-4d2d-99e5-057557ae9bf2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\badede84-a670-4206-83a0-1b0c77afa0d6.jpg",
+      "PackagePath": "staticwebassets\\actores\\badede84-a670-4206-83a0-1b0c77afa0d6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
