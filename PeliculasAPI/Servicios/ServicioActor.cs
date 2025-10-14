@@ -2,6 +2,7 @@
 using PeliculasAPI.Entidades;
 using System.Data.SqlClient;
 using System.Data;
+using Microsoft.Data.SqlClient;
 
 namespace PeliculasAPI.Servicios
 {

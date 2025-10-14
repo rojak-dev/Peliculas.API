@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\servicios\\servicioactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\servicios\\servicioactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\servicios\\serviciogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\servicios\\serviciogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\servicios\\serviciogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\servicios\\serviciogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1200FE3-94B2-42B2-A2EE-7200567AA164}|PeliculasAPI\\PeliculasAPI.csproj|d:\\users\\rjkuku\\documents\\proyectos dapper\\peliculasapi\\peliculasapi\\dto\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,32 +54,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\ConexionBD.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\ConexionBD.cs",
+              "RelativeToolTip": "PeliculasAPI\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:29:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PeliculasAPI\\appsettings.Development.json",
               "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
               "RelativeToolTip": "PeliculasAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-08T16:15:42.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServicioActor.cs",
               "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioActor.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\ServicioActor.cs",
               "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioActor.cs",
               "RelativeToolTip": "PeliculasAPI\\Servicios\\ServicioActor.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwGgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T16:14:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginacionDTO.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\PaginacionDTO.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\DTO\\PaginacionDTO.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\PaginacionDTO.cs",
+              "RelativeToolTip": "PeliculasAPI\\DTO\\PaginacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:52:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServicioGenero.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\IServicioGenero.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\IServicioGenero.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\IServicioGenero.cs",
+              "RelativeToolTip": "PeliculasAPI\\Servicios\\IServicioGenero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:51:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\DTO\\GeneroDTO.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\GeneroDTO.cs",
+              "RelativeToolTip": "PeliculasAPI\\DTO\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:40:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioGenero.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioGenero.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\ServicioGenero.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioGenero.cs",
+              "RelativeToolTip": "PeliculasAPI\\Servicios\\ServicioGenero.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:23:40.134Z",
               "EditorCaption": ""
             },
             {
@@ -93,19 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenerosController.cs",
-              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\GenerosController.cs",
-              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeToolTip": "PeliculasAPI\\Controllers\\GenerosController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:12:56.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IServicioActor.cs",
               "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\IServicioActor.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\IServicioActor.cs",
@@ -113,59 +170,25 @@
               "RelativeToolTip": "PeliculasAPI\\Servicios\\IServicioActor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:09:19.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaginacionDTO.cs",
-              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\PaginacionDTO.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\DTO\\PaginacionDTO.cs",
-              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\PaginacionDTO.cs",
-              "RelativeToolTip": "PeliculasAPI\\DTO\\PaginacionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T01:52:05.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IServicioGenero.cs",
-              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\IServicioGenero.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\IServicioGenero.cs",
-              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\IServicioGenero.cs",
-              "RelativeToolTip": "PeliculasAPI\\Servicios\\IServicioGenero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T01:51:24.765Z"
+              "WhenOpened": "2025-07-09T00:09:19.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GeneroDTO.cs",
-              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\GeneroDTO.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\DTO\\GeneroDTO.cs",
-              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\DTO\\GeneroDTO.cs",
-              "RelativeToolTip": "PeliculasAPI\\DTO\\GeneroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T01:40:07.406Z"
+              "WhenOpened": "2025-07-09T00:12:56.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServicioGenero.cs",
-              "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioGenero.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\Servicios\\ServicioGenero.cs",
-              "ToolTip": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Servicios\\ServicioGenero.cs",
-              "RelativeToolTip": "PeliculasAPI\\Servicios\\ServicioGenero.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T01:23:40.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Genero.cs",
               "DocumentMoniker": "D:\\Users\\rjkuku\\Documents\\Proyectos Dapper\\PeliculasAPI\\PeliculasAPI\\Entidades\\Genero.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Entidades\\Genero.cs",
@@ -173,7 +196,8 @@
               "RelativeToolTip": "PeliculasAPI\\Entidades\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:25:32.023Z"
+              "WhenOpened": "2025-04-01T22:25:32.023Z",
+              "EditorCaption": ""
             }
           ]
         }

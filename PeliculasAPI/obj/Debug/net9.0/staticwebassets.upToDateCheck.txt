@@ -1,3 +1,4 @@
+wwwroot\actores\0e5e70d2-0c0f-49b5-b9be-89865304d487.jpg
 wwwroot\actores\1129c5fd-ef74-493f-a949-daf70ff2bb38.jpg
 wwwroot\actores\1f70c79e-d594-4892-86f9-436e62b47e3c.jpg
 wwwroot\actores\377da8a5-b586-47c1-bd11-88926c34a724.jpg

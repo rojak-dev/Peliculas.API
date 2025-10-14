@@ -1,9 +1,9 @@
 ﻿using Dapper;
+using Microsoft.Data.SqlClient;
 using PeliculasAPI.DTO;
 using PeliculasAPI.Entidades;
 using PeliculasAPI.Utilidades;
 using System.Data;
-using System.Data.SqlClient;
 
 namespace PeliculasAPI.Servicios
 {
@@ -18,7 +18,7 @@ namespace PeliculasAPI.Servicios
             CadenaConexionSQL = con.CadenaConexionSQL;
         }
 
-        private SqlConnection conexion()
+        private SqlConnection  conexion()
         {
             return new SqlConnection(CadenaConexionSQL);
         }
